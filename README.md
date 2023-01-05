@@ -1,5 +1,6 @@
 # Real-World-Flower-Classifier-of-102-Flower-Types
 This repository contains the file for building a real world flower classifier of 102 flower data using PyTorch.
+![](https://github.com/Bhardwaj-Saurabh/Real-World-Flower-Classifier-of-102-Flower-Types/blob/master/102_Flower.png)
 
 ## **Author: Saurabh Bhardwaj**
 ## Last Updated: 05 Jan 2022
@@ -26,4 +27,4 @@ The model evaluation results:
 - Validation Accuracy: 0.96
 - Test Accuracy: 0.95
 
-[loss](https://github.com/Bhardwaj-Saurabh/Real-World-Flower-Classifier-of-102-Flower-Types/blob/master/model_loss.png) | [Accuracy](https://github.com/Bhardwaj-Saurabh/Real-World-Flower-Classifier-of-102-Flower-Types/blob/master/model_acc.png)
+![loss](https://github.com/Bhardwaj-Saurabh/Real-World-Flower-Classifier-of-102-Flower-Types/blob/master/model_loss.png) | ![Accuracy](https://github.com/Bhardwaj-Saurabh/Real-World-Flower-Classifier-of-102-Flower-Types/blob/master/model_acc.png)
