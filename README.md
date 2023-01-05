@@ -26,4 +26,4 @@ The model evaluation results:
 - Validation Accuracy: 0.96
 - Test Accuracy: 0.95
 
-[loss]() | [Accuracy]()
+[loss](https://github.com/Bhardwaj-Saurabh/Real-World-Flower-Classifier-of-102-Flower-Types/blob/master/model_loss.png) | [Accuracy](https://github.com/Bhardwaj-Saurabh/Real-World-Flower-Classifier-of-102-Flower-Types/blob/master/model_acc.png)
